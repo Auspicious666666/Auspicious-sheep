@@ -1,2 +1,2 @@
 # Auspicious-sheep
-NO NO NO
+This is a temporary storage station
